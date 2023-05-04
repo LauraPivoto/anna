@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">OTTO</string>
+    <string name="txtmain1">Olá Maker!</string>
+    <string name="txtmain2">Preparado para começar a programar?</string>
+    <string name="txtbuttonmainactivity">SIM!!</string>
+    <string name="txt1menu">Antes de começarmos, você já sabe como nosso aplicativo funciona?</string>
+    <string name="txtbuttonexplicacao">Ainda não, me explique, por favor.</string>
+    <string name="txtbuttonjogarmenu">Sim, vamos programar!</string>
+    <string name="txt1ajuda">Como jogar</string>
+    <string name="txtajuda1">Seja bem vindo, Maker!</string>
+    <string name="txtajuda2">Primeiro, você deve conectar o dispositivo ao OTTO através dos botões Selecionar conexão e Conectar.</string>
+    <string name="txtajuda3">Quando você estiver jogando, na parte inferior da sua tela estarão disponíveis os possíveis comandos para o OTTO.</string>
+    <string name="txtajuda4">Para selecionar as ações do seu robô basta clicar neles na ordem desejada.</string>
+    <string name="bttnconectarjogar">Conectar</string>
+    <string name="bttnescolherconexao">Escolher conexão</string>
+    <string name="bttnreset">Reset</string>
+    <string name="txtajuda">Seja bem vindo, Maker! Primeiro, você deve conectar o dispositivo ao OTTO através dos botões Selecionar conexão e Conectar. Quando você estiver jogando, na parte inferior da sua tela estarão disponíveis os possíveis comandos para o OTTO. Para selecionar as ações do seu robô basta clicar neles na ordem desejada. Para que o robô realize as ações, você deve pressionar “Enviar para OTTO”. Depois, se já tiver utilizado o OTTO mas quiser mais aventuras é preciso apertar o botão de reset para poder controlar o robô de novo.</string>
+    <string name="bttn_jogar_ajuda">Entendi! Vamos jogar!</string>
+</resources>
